@@ -10,7 +10,6 @@ The OpenHealth repository contains the initial guidance documents, recommendatio
 ## Community
 
 * [Members](https://github.com/orgs/PsySecGroup/people): Who is furthering the research of OpenHealth.
-* [Teams](https://github.com/orgs/PsySecGroup/teams): Groups of people focusing on specific domains of autonomous self-care.
 * [Contributors](https://github.com/PsySecGroup/OpenHealth/graphs/contributors): People who have contributed to OpenHealth research.
 * [How to Support Us](SUPPORT.md): OpenHealth is a big effort and we need all the help we can get.
 * [How to Fork](FORKING.md): Sometimes, conversation and the standing community isn't enough.  Sometimes, you have an idea so groundbreaking you're ahead of your time.  Learn how to cut that new path so we can bring your discoveries back.
