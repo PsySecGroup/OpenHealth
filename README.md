@@ -19,7 +19,7 @@ The OpenHealth repository contains the initial guidance documents, recommendatio
 ## Conversations
 
 * [Code of Conduct](CODE_OF_CONDUCT.md): How we treat each other and expect to be treated.
-* [Discussions](https://github.com/orgs/PsySecGroup/discussions): General conversations about autonomous self-care.
+* [Discussions](https://github.com/orgs/PsySecGroup/OpenHealth/discussions): General conversations about autonomous self-care.
 * [Announcements](https://github.com/PsySecGroup/OpenHealth/discussions/categories/announcements): Updates that affect the OpenHealth community.
 * [Ideas](https://github.com/PsySecGroup/OpenHealth/discussions/categories/ideas): Have some new ideas?  Want to see other peoples ideas?  Try this out.
 * [Polls](https://github.com/PsySecGroup/OpenHealth/discussions/categories/polls): Poll the OpenHealth community and see what they think.
